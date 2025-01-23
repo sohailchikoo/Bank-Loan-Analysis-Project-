@@ -1,4 +1,5 @@
-**Bank Loan Analysis Project** - A comprehensive project leveraging SQL and Power BI to analyze bank loan data, providing actionable insights into customer behavior, loan performance, and risk management . 
+**Bank Loan Analysis Project** 
+A comprehensive project leveraging SQL and Power BI to analyze bank loan data, providing actionable insights into customer behavior, loan performance, and risk management . 
 
 **Project Overview** - This project focuses on analyzing a bank's loan portfolio to uncover trends, assess risks, and improve decision-making. Using SQL for data extraction, transformation, and analysis, combined with Power BI for interactive dashboards, this project aims to streamline loan management processes and enhance data-driven decision-making.
 
